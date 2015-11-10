@@ -20,3 +20,4 @@ before_script:
 script:
   - php src/Ifsnop/Mysqldump/Mysqldump.php
   - cd tests && ./test.sh
+
